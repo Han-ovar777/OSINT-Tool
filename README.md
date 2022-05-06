@@ -26,20 +26,14 @@ Windows 10 [ Recommended System ]
 
 
 💡 HOW TO INSTALL in WINDOWS
-Download Zip file https://github.com/
+Download Zip file https://github.com/Han-ovar777/OSINT-Tool.git
 
 Open up Windows directory
 
-Now, Unzip your download file (OSINT.zip)
-
-and open directory
+Now, Unzip your file (OSINT.zip)
 
 
 and run ( main.py )
-
-now , click (install) button
-
-select (EveryOne) and next all .
 
 For Whole Project Contact me on Telegram :
 
