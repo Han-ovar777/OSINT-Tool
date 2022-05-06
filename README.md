@@ -1,8 +1,11 @@
-![Banner](https://user-images.githubusercontent.com/83410938/167084293-283e529a-9bfc-431c-a870-4142733a13fb.gif)
+<p align="center">
+  <img  src=https://user-images.githubusercontent.com/83410938/167084293-283e529a-9bfc-431c-a870-4142733a13fb.gif>
+</p>
+
 
 
 # OSINT-Tool
-This OSINT tool uses the investigation phase to collect information about their possible targets . The OSINT tools use Scrapping methods and Apis to find sensitive data around the web
+This OSINT tool is python based tool that uses the investigation phase to collect information about their possible targets . The OSINT tools use Scrapping methods and Apis to find sensitive data around the web .
 
 ➰ Requirements!
 
