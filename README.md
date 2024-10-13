@@ -35,7 +35,7 @@ Now, Unzip your file (OSINT.zip)
 
 and run ( main.py )
 
-For Whole Working Project Contact me on my Mail: santosanda12@gmail.com
+For Whole Working Project Contact me on my Mail: han0var777@gmail.com
 
 
 
